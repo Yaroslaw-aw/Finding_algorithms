@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finding", "Finding.csproj", "{67FB988E-D574-432C-9FEF-77D4EBB07AB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint2", "..\Paint2\Paint2.csproj", "{E02D6E9F-AA5E-47EF-ADB7-8EED1FC24A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FB988E-D574-432C-9FEF-77D4EBB07AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FB988E-D574-432C-9FEF-77D4EBB07AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FB988E-D574-432C-9FEF-77D4EBB07AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FB988E-D574-432C-9FEF-77D4EBB07AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02D6E9F-AA5E-47EF-ADB7-8EED1FC24A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02D6E9F-AA5E-47EF-ADB7-8EED1FC24A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02D6E9F-AA5E-47EF-ADB7-8EED1FC24A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02D6E9F-AA5E-47EF-ADB7-8EED1FC24A26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3AE1D0A-51AE-4907-90F5-9760420ABB8D}
+	EndGlobalSection
+EndGlobal
